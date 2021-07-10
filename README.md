@@ -1,2 +1,3 @@
-# Learing-git-
+# Learing-git
 Demo for Github Intro
+
